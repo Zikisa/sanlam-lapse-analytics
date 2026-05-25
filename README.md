@@ -1,7 +1,7 @@
 # Sanlam Life Insurance: Predictive Modeling for Policy Lapse Risk Mitigation
 
 ## Demo Link
-[View Interactive Tableau Performance Dashboard](github.com/Zikisa/sanlam-lapse-analytics/blob/main/visuals/dashboard_preview.png)
+[View Interactive Tableau Performance Dashboard](visuals/dashboard_preview.png)
 
 ## Table of Contents
 * [Business Understanding](#business-understanding)
